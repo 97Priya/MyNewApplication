@@ -1,8 +1,9 @@
 package application.example.mynewapplication.activites;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import application.example.mynewapplication.R;
 
